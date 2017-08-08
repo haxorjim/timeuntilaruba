@@ -23,13 +23,13 @@ h1{
 
 #clockdiv > div{
 	padding: 8px;
-	border-radius: 3px;	
+	border-radius: 3px;
 	display: inline-block;
 }
 
 #clockdiv div > span{
 	padding: 8px;
-	border-radius: 3px;	
+	border-radius: 3px;
 	display: inline-block;
 }
 
